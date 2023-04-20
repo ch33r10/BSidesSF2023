@@ -11,17 +11,19 @@
 <ul>
 <li>Bluehat 2022 - Andrew Morris - Staying Ahead of Internet Background Exploitation - <a href="https://www.slideshare.net/andrewwantsyou/staying-ahead-of-internet-background-exploitation-microsoft-bluehat-israel-2022">Link</a></li>
 <li>Bot Conf 2022 - Carlos Rubio Ricote & Markel Picado Ortiz - Qbot Code Evolution - <a href="https://www.botconf.eu/wp-content/uploads/2022/04/Botconf2022-18-PicadoRubio.pdf">Link</a></li>
- <li>Cyberwarcon - Focus: "specter of destruction, disruption, and malicious influence on our society through cyber capabilities" - <a href="https://www.cyberwarcon.com/">Link</a></li>
- <ul><li>Cyberwarcon YouTube Videos - <a href="https://www.youtube.com/@cyberwarcon/videos">Link</a></ul></li>
+ <li>Cyberwarcon - <a href="https://www.cyberwarcon.com/">Link</a></li>
+ <ul><li>Focus: "specter of destruction, disruption, and malicious influence on our society through cyber capabilities"</ul></li>
+ <ul><ul><li>Cyberwarcon YouTube Videos - <a href="https://www.youtube.com/@cyberwarcon/videos">Link</a></ul></ul></li>
 <li>Mandiant - This is not a test: APT41 initiates global intrusion campaign using multiple exploits - <a href="https://www.mandiant.com/resources/blog/apt41-initiates-global-intrusion-campaign-using-multiple-exploits">Link</a></li>
 <li>Mandiant - M-Trends 2023 - <a href="https://www.mandiant.com/resources/reports/m-trends-2023-executive-summary">Link</a></li>
 <li>Proofpoint - TA423/Red Ladon: Espionage in South China Sea - <a href="https://www.proofpoint.com/au/blog/threat-insight/chasing-currents-espionage-south-china-sea">Link</a></li>
 <li>Red Team Blogs</li>
 <ul><li>Red Team Notes - <a href="https://www.ired.team/">Link</a></ul></li>
-<ul><li>Awesome Red Teaming - No Longer Updated - <a href="https://github.com/yeyintminthuhtut/Awesome-Red-Teaming">Link</a></li></ul>
+<ul><li>Awesome Red Teaming - (No Longer Updated) - <a href="https://github.com/yeyintminthuhtut/Awesome-Red-Teaming">Link</a></li></ul>
 <li>ReliaQuest - WannaCry: An Analysis of Competing Hypotheses - <a href="https://www.reliaquest.com/blog/wannacry-an-analysis-of-competing-hypotheses/">Link</a></li>
-<li>Sleuthcon - Focus: "cybercrime and financially-motivated cyber threats" - <a href="https://www.sleuthcon.com/">Link</a></li>
-<ul><li>Sleuthcon YouTube Videos - <a href="https://www.youtube.com/@sleuthcon">Link</a></li></ul>
+<li>Sleuthcon - <a href="https://www.sleuthcon.com/">Link</a></li>
+<ul><li>Focus: "cybercrime and financially-motivated cyber threats"</ul></li> 
+<ul><ul><li>Sleuthcon YouTube Videos - <a href="https://www.youtube.com/@sleuthcon">Link</a></li></ul></ul>
 <li>Structured Analytic Techniques for Intelligence Analysis by Randolph H. Pherson and Richards J. Heuer - <a href="https://www.amazon.com/dp/150636893X?ref_=cm_sw_r_cp_ud_dp_D9MEVEQRGQ52YQ0V3Z8F">Link</a></li>
 <li>Target's Security Team ROCKS!!!</li>
 <ul><li>SANS CTI Summit 2021: Riding the WAVE to Better Collaboration and Security by Kelsey Helms and Nate Icart - <a href="https://youtu.be/nPn_DH4mqQY">Link</a></li></ul>
